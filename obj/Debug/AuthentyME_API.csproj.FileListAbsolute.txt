@@ -1,0 +1,16 @@
+C:\Users\trymz\RiderProjects\AuthentyME_API\bin\Debug\AuthentyME_API.dll
+C:\Users\trymz\RiderProjects\AuthentyME_API\bin\Debug\AuthentyME_API.pdb
+C:\Users\trymz\RiderProjects\AuthentyME_API\bin\Debug\Newtonsoft.Json.dll
+C:\Users\trymz\RiderProjects\AuthentyME_API\bin\Debug\System.IO.dll
+C:\Users\trymz\RiderProjects\AuthentyME_API\bin\Debug\System.Net.Http.dll
+C:\Users\trymz\RiderProjects\AuthentyME_API\bin\Debug\System.Runtime.dll
+C:\Users\trymz\RiderProjects\AuthentyME_API\bin\Debug\System.Security.Cryptography.Algorithms.dll
+C:\Users\trymz\RiderProjects\AuthentyME_API\bin\Debug\System.Security.Cryptography.Encoding.dll
+C:\Users\trymz\RiderProjects\AuthentyME_API\bin\Debug\System.Security.Cryptography.Primitives.dll
+C:\Users\trymz\RiderProjects\AuthentyME_API\bin\Debug\System.Security.Cryptography.X509Certificates.dll
+C:\Users\trymz\RiderProjects\AuthentyME_API\bin\Debug\Newtonsoft.Json.xml
+C:\Users\trymz\RiderProjects\AuthentyME_API\obj\Debug\AuthentyME_API.csproj.AssemblyReference.cache
+C:\Users\trymz\RiderProjects\AuthentyME_API\obj\Debug\AuthentyME_API.csproj.CoreCompileInputs.cache
+C:\Users\trymz\RiderProjects\AuthentyME_API\obj\Debug\AuthentyME_API.csproj.CopyComplete
+C:\Users\trymz\RiderProjects\AuthentyME_API\obj\Debug\AuthentyME_API.dll
+C:\Users\trymz\RiderProjects\AuthentyME_API\obj\Debug\AuthentyME_API.pdb
