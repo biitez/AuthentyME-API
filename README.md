@@ -1,4 +1,5 @@
 # AuthentyME-API
+
 ## C# Library to interact with Authenty-ME API. [https://github.com/biitez/Authenty-ME]
 
 ## Example Usage:
@@ -14,6 +15,7 @@ else
     Console.WriteLine("[ERROR]: Could not ban User!");
 }
 ```
+
 ## Todo:
-- Enum for endpoints instead of dictionary.
-- Go outside.
+- I don't know.
+- Go outside?
