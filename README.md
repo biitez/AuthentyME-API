@@ -1,5 +1,5 @@
 # AuthentyME-API
-## C# Rest API for Authenty-ME authentication system. [https://github.com/biitez/Authenty-ME]
+## C# Library to interact with Authenty-ME API. [https://github.com/biitez/Authenty-ME]
 
 ## Example Usage:
 ```csharp
