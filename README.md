@@ -3,33 +3,19 @@
 
 ## Example Usage:
 ```csharp
-// Shitty Example.
-
-// create a new authentyclient instance.
 var client = new AuthentyClient("YOUR_USER_API_KEY", "APPLICATION_KEY");
-
-// try to ban user
 var ban = await client.BanUser("SOME_USER");
-
-// check result omggg
 if (ban.success)
 {
-  Console.WriteLine("[SUCCES]: Banned User!");
-  return;
+    Console.WriteLine("[SUCCES]: Banned User!");
 }
-switch (ban.status)
+else
 {
-  case "ALREADY_BANNED":
-    Console.WriteLine("[ERROR]: User is already banned!");
-    break;
-  case "UNFOUND_USER":
-    Console.WriteLine("[ERROR]: Unable to find user!");
-    break;
-  default:
-    Console.WriteLine($"[ERROR]: Unknown Response! {ban.status}");
-    break;
+    Console.WriteLine("[ERROR]: Could not ban User!");
 }
-
-
 ```
+## Todo:
+- Enum for endpoints instead of dictionary.
+- Go outside.
+
 #### Note: My first Rest API in C#
