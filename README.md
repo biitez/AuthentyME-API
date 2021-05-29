@@ -17,5 +17,3 @@ else
 ## Todo:
 - Enum for endpoints instead of dictionary.
 - Go outside.
-
-#### Note: My first Rest API in C#
